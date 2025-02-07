@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+button {
+    box-shadow: 0 0 5px cyan,
+     0 0 25px cyan;
+     background-color: cyan;
+     color:black;
+     border-radius: 10px;
+    font-family:Arial, sans-serif ;
+    font-weight: bold;
+     border:  10px solid cyan;
+     position: absolute;
+     top: 50%;
+     left: 43%
+     
+     
+     
+    }
+ button:hover{
+    box-shadow: 0 0 5px cyan, 
+    0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan,
+    0 0 200px cyan;
+ }
+
+ 
+  
