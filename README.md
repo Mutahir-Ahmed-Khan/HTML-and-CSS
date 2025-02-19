@@ -1,4 +1,4 @@
-Alright, Mutair Ahmed Khan, hold onto your hats! 🎩 You’re about to step into the colorful, quirky, and sometimes chaotic world of HTML and CSS. Think of it like building a house: HTML is the foundation and walls, and CSS is the paint, furniture, and that weird garden gnome you thought would look cool but now you’re not so sure. 😂
+Alright, GitHubbers, hold onto your hats! 🎩 You’re about to step into the colorful, quirky, and sometimes chaotic world of HTML and CSS. Think of it like building a house: HTML is the foundation and walls, and CSS is the paint, furniture, and that weird garden gnome you thought would look cool but now you’re not so sure. 😂
 
 So, you’ve decided to play architect with web development. Maybe you’re here because you want to create the next big thing on the internet, or maybe you just really like making buttons change colors. Either way, welcome! HTML and CSS are like that dynamic duo who sometimes argue but always get the job done. HTML is the serious one, saying, “Let’s structure this properly,” while CSS is the artsy one, yelling, “But what if we made it *sparkle*?!” ✨
 
